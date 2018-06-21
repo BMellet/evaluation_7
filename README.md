@@ -1,10 +1,12 @@
 # EVALUATION 7
+<dl>
+  <dt><b>Prérequis</b></dt>
+  <dd>PHP 7 ou plus</dd>
+  <dd>MySQL</dd>
+  <dd>Apache2</dd>
+<dl>
 
-## Prérequis
 
--PHP 7 ou plus
--MySQL
--Apache2
 
 ## Plugins installés:
 
@@ -40,3 +42,6 @@ Cliquez sur Proceed.
 
 Le projet est désormais monté. 
 
+Nom utilisateur: simplonco
+
+Mot de passe : Simplonplonsim
