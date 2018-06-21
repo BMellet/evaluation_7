@@ -34,8 +34,7 @@ Connectez vous.
 
 ***
 
-Cliquez sur `extensions` et activer 
-<dt>All-in-One WP Migration</dt>
+Cliquez sur `extensions` et activer  <b>All-in-One WP Migration</b>
 
 Dans le menu d'administration est donc apparu le plugin, allez sur import et importez le fichier `.wpress`
 Cliquez sur Proceed.
